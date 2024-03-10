@@ -31,6 +31,6 @@ Our search engine utilizes a combination of various retrieval methods:
 ### Notes:
 A link to our project on Google Cloud Storage - 
 
-The external IP address of a VM: http://34.173.147.179:8080 you can access our search engine by activating it at /search?query=YOUR_QUERY. Contact us via email for access to the virtual machine (:
+The external IP address of a VM: http://34.41.43.34:8080 you can access our search engine by activating it at /search?query=YOUR_QUERY. Contact us via email for access to the virtual machine (:
 
 Nicole Kaplan - nicoleka@post.bgu.ac.il , Ayelet Hashahar Cohen - ayelethc@post.bgu.ac.il

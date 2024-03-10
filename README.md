@@ -4,11 +4,11 @@ Our final project for the "Information Gathering" course at Ben-Gurion Universit
 
 ### Files Included
 1. `search_frontend.py` - contains the 6 methods required to implement the search functionality: search, search according to document title, search according to document body, search according to document anchor text, get page views and get page rank functions. We currently only implement the search function
-2. `search_backend.py` - contains the query extension, query tokenization methods and contain all the ranking methods for the results retrieval
+2. `backend_engine.py` - contains the query extension, query tokenization methods and contain all the ranking methods for the results retrieval
 3. `inverted_index_gcp.py` - contains the inverted index file and all its methods.
 4. create indexs file - The establishment of the various indexes in GCP.
 5. create dicts file - The establishment of the various dictionaries in GCP for the purpose of quick retrieval of data.
-6. `bucket_files.txt` - contains the files list from the buckets as required.
+6. `indexs_files.txt` - contains the files list from the buckets as required.
 
 ### How to use
 The search engine can be used by running the `search_frontend.py` file.
